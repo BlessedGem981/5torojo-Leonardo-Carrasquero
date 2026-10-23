@@ -50,13 +50,12 @@ $$P(10) = -(10)^2 + 11(10) = -100 + 110 = 10$$
 
 ## Practica 3
 
----
 
 ## Practica 4
 
 
 
----
+
 
 ### Centro de Atencion para Estudiantes
 
